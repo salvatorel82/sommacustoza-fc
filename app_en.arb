@@ -1,0 +1,21 @@
+{
+  "@@locale": "en",
+  "appTitle": "SOMMACUSTOZA08",
+  "calendar": "Calendar",
+  "trainings": "Trainings",
+  "players": "Players",
+  "matches": "Matches",
+  "statistics": "Statistics",
+  "staff": "Staff",
+  "attendance": "Attendance",
+  "formations": "Formations",
+  "noEventsForDate": "No events for this date",
+  "eventsFor": "Events for {date}",
+  "@eventsFor": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  }
+}
